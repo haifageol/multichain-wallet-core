@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>McWallet.Core</RootNamespace>
+    <AssemblyName>McWallet.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
